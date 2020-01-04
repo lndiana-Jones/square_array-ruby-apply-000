@@ -5,6 +5,6 @@ def square_array(array)
     newArr << (ele * ele)
   end
   
-puts newArr
+return newArr
     
 end
